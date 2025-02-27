@@ -15,7 +15,7 @@ tmp_trainer
 # 테스트 파일
 *.c
 *.cpp
-
+*.java
 *.json
 
 train_dataset/
