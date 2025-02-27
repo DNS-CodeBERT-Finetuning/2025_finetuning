@@ -1,0 +1,28 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+*.log
+
+# 모델 체크포인트
+/results/
+processed_dataset/
+tmp_trainer
+
+# 테스트 파일
+*.c
+*.cpp
+
+*.json
+
+train_dataset/
+valid_dataset/
+test_dataset/
+train_T_dataset/
+valid_T_dataset/
+test_T_dataset/
+
+codebert_cwe*/
